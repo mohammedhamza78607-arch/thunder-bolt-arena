@@ -1,0 +1,6 @@
+{
+  "name": "Game Companion App",
+  "description": "Native Android boilerplate for multiplayer matchmaking and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
